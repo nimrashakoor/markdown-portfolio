@@ -1,0 +1,2 @@
+* sunny days
+* rainy days
